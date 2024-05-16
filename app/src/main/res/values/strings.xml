@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XposeDev</string>
+    <string name="app_module_des">为了更方便的Xposed开发.</string>
+</resources>
